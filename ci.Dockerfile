@@ -1,3 +1,4 @@
 FROM wilson208/ebcli:latest
 
-ENTRYPOINT [ "/bin/sh" ]
+ENTRYPOINT [  ]
+CMD [ "/bin/sh" ]

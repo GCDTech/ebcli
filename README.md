@@ -1,5 +1,7 @@
 # Elastic Beanstalk CLI Image
 
+![Docker Image Version (tag latest semver)](https://img.shields.io/docker/v/wilson208/ebcli/latest?style=for-the-badge)![Docker Pulls](https://img.shields.io/docker/pulls/wilson208/ebcli?style=for-the-badge)![Docker Image Size (tag)](https://img.shields.io/docker/image-size/wilson208/ebcli/latest?style=for-the-badge)
+
 Based on Node 14 Alpine Image
 
 ## Usage
