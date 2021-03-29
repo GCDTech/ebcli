@@ -1,6 +1,7 @@
 FROM node:14-alpine
 
 ENV PYTHONUNBUFFERED=1
+ENV CRYPTOGRAPHY_DONT_BUILD_RUST=1
 RUN apk add --update --no-cache \
         build-base \
         openssl \
